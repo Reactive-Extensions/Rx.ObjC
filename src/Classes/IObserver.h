@@ -2,8 +2,7 @@
 //  IObserver.h
 //  RxTest
 //
-//  Created by Jeffrey van Gogh on 6/17/10.
-//  Copyright 2010 __MyCompanyName__. All rights reserved.
+// Copyright (c) Microsoft Corporation. All rights reserved. See License.txt in the project root
 //
 
 #import <UIKit/UIKit.h>
